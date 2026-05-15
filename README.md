@@ -55,7 +55,7 @@ The research team used the AdaQSPR-II model to screen 534 different dynamic disu
 
 We open-source the weights of the AdaQSPR-II model for reproducibility.
 
-Link: 
+Link: https://www.alipan.com/s/HC5tGoA6iL8
 
 Please download the weights of Uni-Mol2 from the origin Repo Uni-Mol2.
 
