@@ -1,0 +1,1 @@
+Note: The initial weights should be downloaded according to the recommendations in the Unimol2 project
